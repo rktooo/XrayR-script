@@ -12,7 +12,7 @@ A Xray backend framework that can easily support many panels.
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com//XrayR-script/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/rktooo/XrayR-script/master/install.sh)
 ```
 
 # Docker 安装
